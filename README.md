@@ -14,5 +14,8 @@ This project has the capability of generating image description and then attachi
 ## Environment
 Python (NumPy,Pandas,Tkinter,Scikitlearn,NLTK,TensorFlow, Keras),YouTube API
 
+## Dataset and necessary files can be download from the link provided, which consists of complete bundle of working files:
+https://drive.google.com/file/d/1kQOGYRbyO80ofpiAPtH1zAghdnERkOqP/view?usp=sharing
+
 ## To Run
 To run the project, just run the GUI.py for using the front end and upload the images in it to test the model.
