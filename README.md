@@ -21,4 +21,4 @@ https://drive.google.com/file/d/1kQOGYRbyO80ofpiAPtH1zAghdnERkOqP/view?usp=shari
 To run the project, just run the GUI.py for using the front end and upload the images in it to test the model.
 
 ## Demo
-! [alt text] (https://github.com/College-Project-For-NLP-at-UWM/Image-Caption-Generation/blob/main/Demo.png)
+![alt text](https://github.com/College-Project-For-NLP-at-UWM/Image-Caption-Generation/blob/main/Demo.png?raw=true)
